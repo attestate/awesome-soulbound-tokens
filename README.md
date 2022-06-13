@@ -37,8 +37,8 @@ To learn more about Soulbound tokens.
 - [Souldbound tokens should be signed claims](https://katelynsills.com/blockchain/soulbound-tokens/)
 
 ## Podcasts
-- [16 - Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen](https://podcasts.apple.com/us/podcast/16-decentralized-society-desoc-glen-weyl-puja-ohlhaver/id1609313639?i=1000564942612)
-- [Unchained podcast Ep. 360 - How Soulbound Tokens Could Reduce Speculation and Improve DAO Voting](https://unchainedpodcast.com/how-soul-bound-tokens-could-reduce-speculation-and-improve-dao-voting-ep-360/)
+- [Greenpill podcast 16 - Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen](https://podcasts.apple.com/us/podcast/16-decentralized-society-desoc-glen-weyl-puja-ohlhaver/id1609313639?i=1000564942612)
+- [Unchained podcast Ep. 360 - How Soulbound Tokens Could Reduce Speculation and Improve DAO Voting | Glen Weyl, Puja Ohlhaver](https://unchainedpodcast.com/how-soul-bound-tokens-could-reduce-speculation-and-improve-dao-voting-ep-360/)
 - [Bankless podcast - Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen](http://podcast.banklesshq.com/soulbound-on-or-off-chain-vitalik-buterin-and-evin-mcmullen)
 
 ## Websites
