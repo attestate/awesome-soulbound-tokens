@@ -32,7 +32,7 @@ To learn more about Soulbound tokens.
 
 ## Articles
 
-## Podcast Episodes
+## Podcasts
 
 ## Websites
 
