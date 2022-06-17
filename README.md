@@ -31,10 +31,10 @@ A curated list of awesome links related to Soulbound Tokens.
 To learn more about Soulbound tokens.
 
 ## Articles
-- [Souldbound by Vitalik Buterin](https://vitalik.ca/general/2022/01/26/soulbound.html)
+- [Soulbound by Vitalik Buterin](https://vitalik.ca/general/2022/01/26/soulbound.html)
 - [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
 - [Addressing the most common misconceptions about Account-bound tokens](https://timdaub.github.io/2022/05/30/addressing-the-most-common-misconceptions-about-account-bound-tokens/)
-- [Souldbound tokens should be signed claims](https://katelynsills.com/blockchain/soulbound-tokens/)
+- [Soulbound tokens should be signed claims](https://katelynsills.com/blockchain/soulbound-tokens/)
 
 ## Podcasts
 - [Greenpill podcast 16 - Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen](https://podcasts.apple.com/us/podcast/16-decentralized-society-desoc-glen-weyl-puja-ohlhaver/id1609313639?i=1000564942612)
