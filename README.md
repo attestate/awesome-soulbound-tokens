@@ -29,6 +29,7 @@ A curated list of awesome links related to Soulbound Tokens.
 - [ERC4973 Account-bound tokens Reference implementation](https://github.com/rugpullindex/ERC4973)
 - [Tribz Soulbound tokens](https://blockscout.com/xdai/mainnet/address/0x2043F330339E21Afe6DC6207500B24AcF74068fC/contracts#address-tabs)
 - [Asshole Soulbound token](https://etherscan.io/address/0x0855B3B667Be89efcF9eE54a79aEcB25a194A8b0#code)
+- [ERC721-520](https://github.com/marryinweb3/ERC721-520)
 
 # Resources
 
@@ -40,6 +41,9 @@ To learn more about Soulbound tokens.
 - [Addressing the most common misconceptions about Account-bound tokens](https://timdaub.github.io/2022/05/30/addressing-the-most-common-misconceptions-about-account-bound-tokens/)
 - [Soulbound tokens should be signed claims](https://katelynsills.com/blockchain/soulbound-tokens/)
 - [Non-Skeuomorphic Harberger Properties may not be implementable as ERC721 NFTs](https://timdaub.github.io/2022/02/19/non-skeuomorphic-harberger-properties-erc721-nfts/)
+- [Soulbound Tokens: Revolutionising Human Existence!](https://www.cryptologi.st/news/soulbound-tokens-revolutionising-human-existence?utm_source=Forum&utm_medium=media&utm_campaign=promotion)
+- [Soulbound Tokens, Decentralized Society - A perspective on future interpersonal governance.](https://leofinance.io/@amphlux/soulbound-tokens-decentralized-society-a-perspective-on-future-interpersonal-governance)
+
 
 ## Podcasts
 - [Greenpill podcast 16 - Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen](https://podcasts.apple.com/us/podcast/16-decentralized-society-desoc-glen-weyl-puja-ohlhaver/id1609313639?i=1000564942612)
