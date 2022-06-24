@@ -36,6 +36,7 @@ A curated list of awesome links related to Soulbound Tokens.
 To learn more about Soulbound tokens.
 
 ## Articles
+
 - [Soulbound by Vitalik Buterin](https://vitalik.ca/general/2022/01/26/soulbound.html)
 - [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
 - [Addressing the most common misconceptions about Account-bound tokens](https://timdaub.github.io/2022/05/30/addressing-the-most-common-misconceptions-about-account-bound-tokens/)
@@ -45,6 +46,8 @@ To learn more about Soulbound tokens.
 - [Soulbound Tokens, Decentralized Society - A perspective on future interpersonal governance.](https://leofinance.io/@amphlux/soulbound-tokens-decentralized-society-a-perspective-on-future-interpersonal-governance)
 - [A Technical Commentary on DeSoc: Part I](https://kevinyu.substack.com/p/a-technical-commentary-on-desoc-part)
 - [Where to use a blockchain in non-financial applications?](https://vitalik.ca/general/2022/06/12/nonfin.html)
+- [Is "acceptably non-dystopian" self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
+- [Ten Self-sovereign identity principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
 
 
 ## Podcasts
