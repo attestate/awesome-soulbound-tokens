@@ -43,6 +43,8 @@ To learn more about Soulbound tokens.
 - [Non-Skeuomorphic Harberger Properties may not be implementable as ERC721 NFTs](https://timdaub.github.io/2022/02/19/non-skeuomorphic-harberger-properties-erc721-nfts/)
 - [Soulbound Tokens: Revolutionising Human Existence!](https://www.cryptologi.st/news/soulbound-tokens-revolutionising-human-existence?utm_source=Forum&utm_medium=media&utm_campaign=promotion)
 - [Soulbound Tokens, Decentralized Society - A perspective on future interpersonal governance.](https://leofinance.io/@amphlux/soulbound-tokens-decentralized-society-a-perspective-on-future-interpersonal-governance)
+- [A Technical Commentary on DeSoc: Part I](https://kevinyu.substack.com/p/a-technical-commentary-on-desoc-part)
+- [Where to use a blockchain in non-financial applications?](https://vitalik.ca/general/2022/06/12/nonfin.html)
 
 
 ## Podcasts
