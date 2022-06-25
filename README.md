@@ -2,21 +2,9 @@
 
 A curated list of awesome links related to Soulbound Tokens.
 
-<br />
-
-# Table of Contents
-
-- [EIP Standards](#eipstandards)
-- [Resources](#resources)
-  - [Articles](#articles)
-  - [Podcasts](#podcasts)
-  - [Websites](#websites)
-- [Contributing](#contributing)
-
----
-
 ## EIP Standards
 
+- [ERC735](https://github.com/ethereum/EIPs/issues/735)
 - [ERC1238](https://github.com/ethereum/EIPs/issues/1238)
 - [ERC4671](https://eips.ethereum.org/EIPS/eip-4671)
 - [ERC4973](https://eips.ethereum.org/EIPS/eip-4973)
