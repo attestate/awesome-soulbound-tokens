@@ -31,6 +31,16 @@ A curated list of awesome links related to Soulbound Tokens.
 - [Asshole Soulbound token](https://etherscan.io/address/0x0855B3B667Be89efcF9eE54a79aEcB25a194A8b0#code)
 - [ERC721-520](https://github.com/marryinweb3/ERC721-520)
 
+## Discussions
+
+- [EIP-4973 Account-bound tokens](https://ethereum-magicians.org/t/eip-4973-account-bound-tokens/8825)
+- [EIP-5114 Soulbound Badges](https://ethereum-magicians.org/t/eip-5114-soulbound-badges/9417)
+- [EIP-1238 Non-transferrable Non fungible tokens](https://github.com/ethereum/EIPs/issues/1238)
+- [EIP-5107 Name-bound tokens](https://ethereum-magicians.org/t/name-bound-tokens/9362)
+- [EIP-4974 Fungible Non-tradable tokens](https://ethereum-magicians.org/t/eip-4974-fungible-non-tradable-tokens-or-exp/8805)
+- [EIP-735 Claim Holder](https://github.com/ethereum/EIPs/issues/735)
+- [Standards for consent tokens](https://ethereum-magicians.org/t/standards-for-a-consent-token/9027)
+
 # Resources
 
 To learn more about Soulbound tokens.
@@ -49,8 +59,12 @@ To learn more about Soulbound tokens.
 - [Is "acceptably non-dystopian" self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 - [Ten Self-sovereign identity principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
 
+## Videos/Talks
+
+- [The Off Chain Internet: Decentralized Identity & Verifiable Credentials - Evin McMullen](https://www.youtube.com/watch?v=EZ_Bb6j87mg)
 
 ## Podcasts
+
 - [Greenpill podcast 16 - Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen](https://podcasts.apple.com/us/podcast/16-decentralized-society-desoc-glen-weyl-puja-ohlhaver/id1609313639?i=1000564942612)
 - [Unchained podcast Ep. 360 - How Soulbound Tokens Could Reduce Speculation and Improve DAO Voting | Glen Weyl, Puja Ohlhaver](https://unchainedpodcast.com/how-soul-bound-tokens-could-reduce-speculation-and-improve-dao-voting-ep-360/)
 - [Bankless podcast - Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen](http://podcast.banklesshq.com/soulbound-on-or-off-chain-vitalik-buterin-and-evin-mcmullen)
