@@ -29,10 +29,6 @@ A curated list of awesome links related to Soulbound Tokens.
 - [EIP-735 Claim Holder](https://github.com/ethereum/EIPs/issues/735)
 - [Standards for consent tokens](https://ethereum-magicians.org/t/standards-for-a-consent-token/9027)
 
-# Resources
-
-To learn more about Soulbound tokens.
-
 ## Articles
 
 - [Soulbound by Vitalik Buterin](https://vitalik.ca/general/2022/01/26/soulbound.html)
@@ -56,10 +52,6 @@ To learn more about Soulbound tokens.
 - [Greenpill podcast 16 - Decentralized Society - DeSoc | Glen Weyl, Puja Ohlhaver, Leon Erichsen](https://podcasts.apple.com/us/podcast/16-decentralized-society-desoc-glen-weyl-puja-ohlhaver/id1609313639?i=1000564942612)
 - [Unchained podcast Ep. 360 - How Soulbound Tokens Could Reduce Speculation and Improve DAO Voting | Glen Weyl, Puja Ohlhaver](https://unchainedpodcast.com/how-soul-bound-tokens-could-reduce-speculation-and-improve-dao-voting-ep-360/)
 - [Bankless podcast - Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen](http://podcast.banklesshq.com/soulbound-on-or-off-chain-vitalik-buterin-and-evin-mcmullen)
-
-## Websites
-
-<br />
 
 # Contributing
 
