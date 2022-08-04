@@ -43,6 +43,8 @@ A curated list of awesome links related to Soulbound Tokens.
 - [Where to use a blockchain in non-financial applications?](https://vitalik.ca/general/2022/06/12/nonfin.html)
 - [Is "acceptably non-dystopian" self-sovereign identity even possible?](https://blog.mollywhite.net/is-acceptably-non-dystopian-self-sovereign-identity-even-possible/)
 - [Ten Self-sovereign identity principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
+- [Definancializing Web3 with SBTs](https://otterspace.mirror.xyz/fhugaesrk4XPppXRB-QBDnxfuq9UDUbwos9wD7MDNgQ)
+- [DAO Badges as Non-transferable Tokens](https://otterspace.mirror.xyz/6qSvCLD-Fch_-XREYO9ALsd14HvizAacp2wqeZovhwI)
 
 ## Videos/Talks
 
