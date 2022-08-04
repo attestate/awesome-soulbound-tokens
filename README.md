@@ -11,6 +11,7 @@ A curated list of awesome links related to Soulbound Tokens.
 - [ERC4974](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-4974.md)
 - [ERC5107](https://github.com/ethereum/EIPs/pull/5107)
 - [ERC5114](https://github.com/ethereum/EIPs/pull/5114)
+- [ERC5192](https://eips.ethereum.org/EIPS/eip-5192)
 
 ## Implementations
 
